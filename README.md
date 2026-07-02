@@ -1,29 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0118,50:4a1f7a,100:0a0118&text=Dcauazin's%20Profile&fontAlign=50&fontAlignY=40&stroke=000000&fontColor=4a1f7a&desc=Junior%20Programmer&descSize=25&descAlign=50&descAlignY=53.05&animation=fadeIn&textBg=true" />
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Estudante+%7C+Dev+em+constru%C3%A7%C3%A3o;Aprendendo+HTML%2C+CSS+e+Java" />
-</div>
-- 🖥️ Currently in the 2nd year of the Vocational Technical High School program at CEDUP Renato Ramos da Silva.
-
-- 💡 I am looking for my first job opportunity and new opportunities to develop my knowledge.
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Aldebaran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Estudante+%7C+Dev+em+constru%C3%A7%C3%A3o;Aprendendo+HTML%2C+CSS+e+Java" />
 
 </div>
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Estudante, sempre metendo a cara em projetos novos
-- 💻 Aprendendo desenvolvimento web (HTML, CSS) e programação (Java)
-- 🔍 Gosto de entender o **porquê** das coisas funcionarem, não só copiar e colar
-- 🌱 Em constante evolução — esse perfil é prova disso
 
 ---
 
@@ -38,6 +19,15 @@
 ![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Estudante, sempre metendo a cara em projetos novos
+- 💻 Aprendendo desenvolvimento web (HTML, CSS) e programação (Java)
+- 🔍 Gosto de entender o **porquê** das coisas funcionarem, não só copiar e colar
+- 🌱 Em constante evolução — esse perfil é prova disso
 
 ---
 
